@@ -21,7 +21,7 @@
 * It's OK to ask for help!
 * Honesty means never wasting mind-space on lies.
 * Technology changes daily; I won't try to chase the bleeding edge 'cause I'll lose my mind.
-* If I am on the bleeding edge ~because I am the one building it~ then, I'll stay on that edge!
+* If I am on the bleeding edge *because I am the one building it* then, I'll stay on that edge!
 * I won't be a jerk just because I know something that someone else does not. I was in their shoes once.
 * I will not become complacent. If I'm feeling very comfortable, things may not be as safe as they seem.
 * I am not trying to be clever. I'm being consistent.
