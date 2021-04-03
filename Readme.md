@@ -18,6 +18,7 @@
 * Discipline outclasses motivation. Build good habits instead of hoping they'll happen.
 * There will always be someone who legitimately knows more than I will ever know about something.
 * Read the documentation!
+* Set yourself small goals or benchmarks to test against and just try it (whatever it happens to be).
 * It's OK to ask for help!
 * Honesty means never wasting mind-space on lies.
 * Technology changes daily; I won't try to chase the bleeding edge 'cause I'll lose my mind.
@@ -40,6 +41,7 @@
 * I started doing this because I like it, I will not lose that passion!
 * Slow down. Focus on understanding how things work, instead of desperately scrambling to get them barely functional.
 * Avoidance lets me off the hook in an emotional short-term but doesn’t fix problems. The problems I ignore only compound and get worse. I lean into my problems and chew them up if only a tiny bite at a time.
+* Do not make decisions based on random thoughts and conjecture alone.
 * life will not be optimal, but I can try to design myself into a better one.
 * Sometimes, the grass is greener because it's being fertilized by a river of shit.
 * There are no excuses for allowing bitterness.
