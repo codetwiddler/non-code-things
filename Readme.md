@@ -5,7 +5,6 @@
 * I am brave enough to suck at something new.
 * I get stronger/better by doing hard things.
 * I am patient and measured.
-* I try earnestly to fall in love with every heartbeat.
 * I appreciate what I have.
 * I get up off my knees and learn to run.
 * I am one of the helpers.
